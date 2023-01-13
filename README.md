@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flask, Django, Deep Learning, CNN, Pytorch, Web Development, FastApi.**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning, Data Science and AI**
 
 - 📫 How to reach me **sarimisraiely12@gmail.com**
 

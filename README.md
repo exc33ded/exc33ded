@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning, Data Science and AI**
 
-- 📫 How to reach me **sarimisraiely12@gmail.com**
+- 📫 How to reach me **sarimisraiely12@gmail.com**, **msarim9662@gmail.com**
 
 - ⚡ Fun fact **I love procrastination 😉**
 

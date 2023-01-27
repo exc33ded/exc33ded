@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Health Discernment System](https://github.com/exc33ded/HealthDS)
 
-- 🌱 I’m currently learning **Flask, Django, Deep Learning, CNN, Pytorch, Web Development, FastApi.**
+- 🌱 I’m currently learning **, Django, Deep Learning, CNN, Pytorch, Web Development.**
 
 - 💬 Ask me about **Machine Learning, Data Science and AI**
 

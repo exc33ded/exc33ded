@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sarimisraiely12@gmail.com**, **msarim9662@gmail.com**
 
-- ⚡ Fun fact **I love procrastination 😉**
+- ⚡ Fun fact **I love procrastination 😉, well it's the life of a coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

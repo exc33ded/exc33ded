@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Django Framework.
 
-- 🌱 I’m currently learning ** CNN and Pytorch.**
+- 🌱 I’m currently learning **CNN and Pytorch.**
 
 - 💬 Ask me about **Machine Learning, Data Science and AI**
 

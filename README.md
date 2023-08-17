@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exc33ded" alt="exc33ded" /></a> </p>
 
-- 🔭 I’m currently working on Django Framework.
+- 🔭 I’m currently working on **React** Framework.
 
-- 🌱 I’m currently learning **CNN and Pytorch.**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Machine Learning, Data Science and AI**
 

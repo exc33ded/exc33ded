@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React** Framework.
 
-- 🌱 I’m currently learning **Django**.
+- 🌱 I’m currently learning **Django with MySQL**.
 
 - 💬 Ask me about **Machine Learning, Data Science and AI**
 

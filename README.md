@@ -14,7 +14,7 @@
 
 - 📫 How to reach me at **msarim9662@gmail.com**
 
-- ⚡ Fun fact **I love procrastination 😉, well it's the life of a coder**
+- ⚡ Fun fact **I love procrastination 😉, well it's the life of a coder**.
 
 ## Connect with me  
 <div align="center">

@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django with MySQL**.
 
-- 💬 Ask me about **Machine Learning, Data Science and Web**.
+- 💬 Ask me about **Machine Learning, Data Science and Web Development**.
 
 - 📫 How to reach me at **msarim9662@gmail.com**.
 

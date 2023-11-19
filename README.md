@@ -6,9 +6,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=exc33ded&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on **NLTK**.
+- 🔭 I’m currently working on **Django**.
 
-- 🌱 I’m currently learning **Django with MySQL**.
+- 🌱 I’m currently learning **NLTK**.
 
 - 💬 Ask me about **Machine Learning, Data Science and Web Development**.
 

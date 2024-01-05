@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Django**.
 
-- 🌱 I’m currently learning **NLTK**.
+- 🌱 I’m currently grinding **LeetCode**.
 
 - 💬 Ask me about **Machine Learning, Data Science and Web Development**.
 

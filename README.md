@@ -39,6 +39,5 @@
 ![exc33ded's Streak](https://github-readme-streak-stats.herokuapp.com/?user=exc33ded&theme=dracula&hide_border=false)
 ![exc33ded's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exc33ded&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/msarim9662)
-<!
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=exc33ded)](https://auth.geeksforgeeks.org/user/<exc33ded/practice/)
->
+

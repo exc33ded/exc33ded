@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exc33ded&label=Profile%20views&color=0e75b6&style=flat" alt="exc33ded" /> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=exc33ded&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=exc33ded&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 - 🔭 I’m currently working on **Django**.
 

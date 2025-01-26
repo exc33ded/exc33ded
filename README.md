@@ -32,9 +32,14 @@
   </a>
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=exc33ded&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <h2>🏆 GitHub Trophies 🏆 </h2>
+  <br>
+    
+ ![](https://github-trophies.vercel.app/?username=exc33ded&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
+</div>
+<hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -79,6 +84,17 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MohammedSarim)
   
 </div>
+
+<hr/>
+
+<h2 align="center">✍️ Random Dev Quote ✍️</h2>
+<br>
+<div align=center>
+    
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+</div>
+
 
 
 

@@ -38,3 +38,8 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MohammedSarim)
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=exc33ded)](https://auth.geeksforgeeks.org/user/<exc33ded/practice/)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/exc33ded/exc33ded/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/exc33ded/exc33ded/blob/output/github-contribution-grid-snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shibli2316/shibli2316/output/github-snake.svg" />
+</picture>

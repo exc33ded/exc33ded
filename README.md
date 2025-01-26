@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Genarative AI**
 
-💬 Ask me about **AI, Python, Development... or anything [here](https://github.com/exc33ded/exc33ded/issues)**
+💬 Ask me about **AI Development, Python... or anything [here](https://github.com/exc33ded/exc33ded/issues)**
 
 ⚡ Fun fact **I love procrastination 😉, well it's the life of a coder ✌️**
 

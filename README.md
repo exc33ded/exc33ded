@@ -87,13 +87,6 @@
 
 <hr/>
 
-<h2 align="center">✍️ Random Dev Quote ✍️</h2>
-<br>
-<div align=center>
-    
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-</div>
 
 
 

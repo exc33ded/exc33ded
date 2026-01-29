@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **The New Devin**
+ 🔭 I’m currently working on **The New**
  
- 🌱 I’m currently learning **Genarative AI**
+ 🌱 I’m currently researching **Genarative AI**
 
 💬 Ask me about **AI Development, Python... or anything [here](https://github.com/exc33ded/exc33ded/issues)**
 
